@@ -1,3 +1,4 @@
 # Index File
 Here is **some asterisked** text.
-[Lost the image](https://github.com/chinovz/skills-communicate-using-markdown)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
