@@ -2,7 +2,7 @@
 Here is **some asterisked** text.
 
 - [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
+- [x] Outline my portfolio
 - [ ] Goodbye, cruel world
 
 ``` javascript
