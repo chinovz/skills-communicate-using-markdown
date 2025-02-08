@@ -1,3 +1,3 @@
 # Index File
 Here is **some asterisked** text.
-https://github.com/chinovz/skills-communicate-using-markdown
+[Lost the image](https://github.com/chinovz/skills-communicate-using-markdown)
