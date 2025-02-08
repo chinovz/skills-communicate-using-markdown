@@ -1,6 +1,10 @@
 # Index File
 Here is **some asterisked** text.
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Goodbye, cruel world
+
 ``` javascript
 var myVar = "Hello, world!";
 ```
